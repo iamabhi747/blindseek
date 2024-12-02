@@ -4,4 +4,10 @@
   top: 0;
   left: 0;
   width: 100%;
+  background-color: rgb(9, 9, 11);
+}
+
+.layout-card {
+  border-radius: 0.8rem;
+  background-color: rgb(24, 24, 26);
 }
