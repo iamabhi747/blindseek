@@ -11,3 +11,7 @@
   border-radius: 0.8rem;
   background-color: rgb(24, 24, 26);
 }
+
+.Inventory-Item-Box {
+  @apply bg-gray-700 rounded-xl shadow-inner opacity-95 shadow-slate-300 hover:cursor-pointer hover:opacity-100 hover:shadow-white;
+}
